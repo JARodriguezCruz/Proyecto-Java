@@ -1,7 +1,7 @@
 public class Saludo {
 
     public static void main(String[] args) {
-        System.out.println("Hola mundo desde la rama principal!");
+        System.out.println("Hola desde la rama principal!");
     }
 
 }
